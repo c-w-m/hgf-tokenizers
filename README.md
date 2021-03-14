@@ -1,4 +1,4 @@
-# Tokenizers
+# [Tokenizers](https://github.com/huggingface/tokenizers.git)
 
 Provides an implementation of today's most used tokenizers with a focus on performances
 and versatility. The goal is to make it as easy as possible to construct a Tokenizer, learn a
